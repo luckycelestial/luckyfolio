@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Pavithran | Full-Stack Developer',
+  description: 'Full-stack developer specializing in React, Next.js, and modern web technologies.',
   generator: 'v0.app',
   icons: {
     icon: [

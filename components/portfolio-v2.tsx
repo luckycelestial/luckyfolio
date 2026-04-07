@@ -458,12 +458,6 @@ export default function PortfolioV2() {
             {/* Copyright */}
             <p className="text-sm text-zinc-600">© 2026 Pavithran P N. All rights reserved.</p>
           </div>
-
-          {/* Bottom Right Logos */}
-          <div className="absolute bottom-6 right-6 flex items-center gap-3">
-            <VLogo />
-            <span className="rounded bg-zinc-800 px-2 py-1 text-xs font-medium text-zinc-400">VD</span>
-          </div>
         </footer>
       </div>
     </div>
